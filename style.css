@@ -2,7 +2,7 @@
     font-family: 'Raleway', sans-serif;
     box-sizing: border-box;
     margin: 0;
-    text-overflow: ellipsis;
+    
 }
 
 main{
@@ -30,6 +30,7 @@ p {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     color: white;
+    text-overflow: ellipsis;
 }
 
 section {
