@@ -68,7 +68,7 @@ footer a {
 }
 
 .banner {
-    background-image: linear-gradient(rgba(0, 0, 0, .2), rgba(49, 168, 221, .2), rgba(0, 0, 0, .4)), url(./assets/images/banner.png);
+    background-image: linear-gradient(rgba(0, 0, 0, .2), rgba(49, 168, 221, .2), rgba(0, 0, 0, .4)), url(../assets/images/banner.png);
     background-size: cover;
     background-repeat: no-repeat;
     height: 600px;
@@ -152,7 +152,7 @@ footer a {
 #transform-world {
     height: 560px;
     background-size: cover;
-    background-image: url(./assets/images/woman-code.png);
+    background-image: url(../assets/images/woman-code.png);
     background-attachment: fixed;
     border-top: 1px solid rgba(50, 168, 219, .5);
     border-bottom: 1px solid rgba(50, 168, 219, .5);
