@@ -163,7 +163,6 @@ footer a {
     color: var(--cor-fonte);
     font-weight: 900;
     font-size: 2.5rem;
-    text-transform: uppercase;
     max-width: 250px;
     text-shadow: 3px 2px var(--cor-primaria);
     position: absolute;
