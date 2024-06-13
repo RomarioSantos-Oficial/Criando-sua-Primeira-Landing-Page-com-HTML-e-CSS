@@ -63,7 +63,7 @@ footer a {
     text-decoration: none;
 }
 .banner {
-    background-image: linear-gradient(rgba(0, 0, 0, .2), rgba(49, 168, 221, .2), rgba(0, 0, 0, .4)), url(../assets/images/banner.png);
+    background-image: linear-gradient(rgba(0, 0, 0, .2), rgba(49, 168, 221, .2), rgba(0, 0, 0, .4)), url(/assets/images/banner.png);
     background-size: cover;
     background-repeat: no-repeat;
     height: 600px;
